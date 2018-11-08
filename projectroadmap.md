@@ -5,5 +5,5 @@
 - [ ] Create Room 2 Method
 - [ ] Create Room 3 Method
 - [ ] Create Hub
-- [ ] 
-- [ ] Create 
+- [ ] Create Penultimate Room
+- [ ] Create Final Boss Room
