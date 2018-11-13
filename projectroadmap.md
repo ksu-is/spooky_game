@@ -1,9 +1,11 @@
+- [X] First room logic
+- [ ] Second room logic
+- [ ] Final Sequence logic
 - [ ] Create FlowChart of program
 - [ ] Create Attributes
 - [ ] Create Opening Sequence
 - [ ] Create Room 1 Method
 - [ ] Create Room 2 Method
-- [ ] Create Room 3 Method
 - [ ] Create Hub
 - [ ] Create Penultimate Room
 - [ ] Create Final Boss Room
