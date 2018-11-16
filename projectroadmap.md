@@ -1,5 +1,5 @@
 - [X] First room logic
-- [ ] Second room logic
+- [X] Second room logic
 - [ ] Final Sequence logic
 - [ ] Create FlowChart of program
 - [ ] Create Attributes
