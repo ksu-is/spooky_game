@@ -6,7 +6,7 @@
 - [X] Create Opening Sequence
 - [ ] Create Room 1 Method
 - [ ] Create Room 2 Method
-- [ ] Create Hub
+- [X] Create Hub
 - [ ] Create Penultimate Room
 - [ ] Create Trapped Spirit
 - [ ] Create Final Boss Room
