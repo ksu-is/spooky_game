@@ -3,7 +3,7 @@
 - [X] Final Sequence logic
 - [X] Create FlowChart of program
 - [ ] Create Attributes
-- [ ] Create Opening Sequence
+- [X] Create Opening Sequence
 - [ ] Create Room 1 Method
 - [ ] Create Room 2 Method
 - [ ] Create Hub
