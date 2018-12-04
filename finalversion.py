@@ -707,7 +707,7 @@ def father_time():
     print("1.Who are you?")
     print("2.What do you mean we've been through this before? I don't know you.")
     print("3.Can you get me out of here")
-    print("type 'Exit' to leave")
+    print("4. Leave the room")
     ask_question = input().capitalize()
     while True:
         if ask_question == "1":
@@ -778,7 +778,7 @@ def father_time():
             print("\n" * 100)
             father_time()
             break
-        elif ask_question == "EXIT":
+        elif ask_question == "4":
             leave_room()
             break
         else:
@@ -801,6 +801,7 @@ def leave_room():
     input("You push them open and feel a heat from your watch")
     print("\n" * 100)
     time_saber += 1
+    final_room()
     return
 
 
