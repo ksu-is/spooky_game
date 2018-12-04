@@ -767,7 +767,7 @@ def father_time():
             input("Suddenly in his hands appears a sabre with intricately carved designs")
             input("Where the hilt meets the blade is an empty slot")
             input("'You like it?'")
-            input("'I call it the time sabre'")
+            input("'I call it the time saber'")
             input("'The old man created it so that he could erase those two mistakes downstairs with the watch'")
             input("'But seeing as how the watch left he never could do it'")
             input("'So I snatched it from another timeline'")
