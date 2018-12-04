@@ -2,12 +2,12 @@
 - [X] Second room logic
 - [X] Final Sequence logic
 - [X] Create FlowChart of program
-- [ ] Create Attributes
+- [X] Create Attributes
 - [X] Create Opening Sequence
-- [ ] Create Room 1 Method
-- [ ] Create Room 2 Method
+- [X] Create Room 1 Method
+- [X] Create Room 2 Method
 - [X] Create Hub
-- [ ] Create Penultimate Room
-- [ ] Create Trapped Spirit
-- [ ] Create Final Boss Room
-- [ ] Create Final Sequence
+- [X] Create Penultimate Room
+- [X] Create Trapped Spirit
+- [X] Create Final Boss Room
+- [X] Create Final Sequence
