@@ -146,6 +146,7 @@ def hub_decision():
                 if first_double_door == "1":
                     if trial_of_mind_completion == 1 and trial_of_body_completion == 1:
                         input("The energy you abosrbed from the two trials has allowed you to open the doors")
+                        penultimate_room()
                     else:
                         input("You shake at the doors but they won't open")
                         hub_decision()
