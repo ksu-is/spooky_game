@@ -91,7 +91,7 @@ def hub_decision():
                 print("\n" * 100)
                 input("As you do you feel the presence of thousands of unfamiliar memories\n")
                 print("\n" * 100)
-                for x in range(0, 6)
+                for x in range(0, 6):
                     input("Add a skill point to one of your stats:\n")
                     print("1.Stength\n")
                     print("2.Intelligence\n")
