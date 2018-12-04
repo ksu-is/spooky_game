@@ -714,6 +714,7 @@ def father_time():
             input("'call me god, call me time, call me a janitor, call me whatever you like.'")
             input("'Who I am isn't important, it's what I do'")
             input("'I exist for one reason, to keep time going'")
+            input("(Press Enter to Continue)")
             print("\n" * 100)
             father_time()
             break
@@ -758,6 +759,7 @@ def father_time():
             input("'He's about to make it again in this timeline and now is when I explain why I need you.'")
             input("'Just one of these devices is destroying time itself, creating timeline after timeline'")
             input("'You need to stop him from doing it again and this time I know how to help.'")
+            input("(Press Enter to Continue)")
             print("\n" * 100)
             father_time()
             break
@@ -775,6 +777,7 @@ def father_time():
             input("'And that's exactly what you're going to do to him.'")
             input("'We're going to stop that watch from ever getting made'")
             input("'And you will end up back in your normal timeline as if you had never found the watch to begin with'")
+            input("(Press Enter to Continue)")
             print("\n" * 100)
             father_time()
             break
